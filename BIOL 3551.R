@@ -1,0 +1,13 @@
+help()
+3+5
+?mean
+A=5
+B=3
+A+B
+(Outcome=A+B)
+SampleVector=1:10
+(SampleVector=1:100)
+(Vector2=c(1,2,5,10,100))
+(Vector3=seq(3,25,0.5))
+A=seq(0.5,1.5,0.05)
+(B=A^3)
